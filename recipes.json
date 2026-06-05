@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Egg Fried Rice",
+    "ingredients": ["rice", "egg", "onion"],
+    "steps": ["Boil rice", "Fry onion", "Add egg", "Mix rice and serve"]
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "ingredients": ["rice", "chicken", "egg"],
+    "steps": ["Cook chicken", "Add rice", "Stir fry and serve"]
+  },
+  {
+    "name": "Vegetable Rice",
+    "ingredients": ["rice", "tomato", "onion"],
+    "steps": ["Cook rice", "Saute vegetables", "Mix together", "Serve"]
+  },
+  {
+    "name": "Tomato Rice",
+    "ingredients": ["rice", "tomato", "onion"],
+    "steps": ["Prepare tomato masala", "Mix rice", "Serve"]
+  },
+  {
+    "name": "Lemon Rice",
+    "ingredients": ["rice", "lemon", "peanuts"],
+    "steps": ["Cook rice", "Add seasoning", "Mix lemon juice", "Serve"]
+  },
+  {
+    "name": "Jeera Rice",
+    "ingredients": ["rice", "cumin"],
+    "steps": ["Cook rice", "Temper cumin", "Mix and serve"]
+  },
+  {
+    "name": "Vegetable Pulao",
+    "ingredients": ["rice", "carrot", "peas"],
+    "steps": ["Cook vegetables", "Add rice", "Cook together"]
+  },
+  {
+    "name": "Veg Biryani",
+    "ingredients": ["rice", "carrot", "peas", "onion"],
+    "steps": ["Prepare masala", "Layer rice", "Cook and serve"]
+  },
+  {
+    "name": "Chicken Biryani",
+    "ingredients": ["rice", "chicken", "onion"],
+    "steps": ["Marinate chicken", "Cook rice", "Layer together", "Dum cook"]
+  },
+  {
+    "name": "Mandi",
+    "ingredients": ["rice", "chicken", "spices"],
+    "steps": ["Prepare mandi rice", "Cook chicken", "Serve together"]
+  },
+  {
+    "name": "Alfaham",
+    "ingredients": ["chicken", "garlic", "spices"],
+    "steps": ["Marinate chicken", "Grill chicken", "Serve hot"]
+  },
+  {
+    "name": "Shawarma",
+    "ingredients": ["chicken", "pita bread", "mayonnaise"],
+    "steps": ["Cook chicken", "Prepare filling", "Roll and serve"]
+  },
+  {
+    "name": "Masala Dosa",
+    "ingredients": ["dosa batter", "potato", "onion"],
+    "steps": ["Prepare filling", "Spread batter", "Add filling", "Fold and serve"]
+  },
+  {
+    "name": "Idli",
+    "ingredients": ["idli batter"],
+    "steps": ["Pour batter", "Steam", "Serve"]
+  },
+  {
+    "name": "Upma",
+    "ingredients": ["rava", "onion", "carrot"],
+    "steps": ["Roast rava", "Cook vegetables", "Mix and serve"]
+  },
+  {
+    "name": "Poha",
+    "ingredients": ["poha", "onion", "peanuts"],
+    "steps": ["Cook onions", "Add poha", "Serve"]
+  },
+  {
+    "name": "Pongal",
+    "ingredients": ["rice", "dal", "pepper"],
+    "steps": ["Cook rice and dal", "Season and serve"]
+  },
+  {
+    "name": "Bread Omelette",
+    "ingredients": ["bread", "egg", "onion"],
+    "steps": ["Prepare egg mix", "Cook bread omelette", "Serve"]
+  },
+  {
+    "name": "Veg Sandwich",
+    "ingredients": ["bread", "tomato", "cucumber"],
+    "steps": ["Arrange vegetables", "Toast", "Serve"]
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "ingredients": ["paneer", "tomato", "butter"],
+    "steps": ["Prepare gravy", "Add paneer", "Cook and serve"]
+  },
+  {
+    "name": "Butter Chicken",
+    "ingredients": ["chicken", "butter", "tomato"],
+    "steps": ["Cook chicken", "Prepare gravy", "Serve"]
+  },
+  {
+    "name": "Egg Curry",
+    "ingredients": ["egg", "onion", "tomato"],
+    "steps": ["Boil eggs", "Prepare curry", "Serve"]
+  },
+  {
+    "name": "Dal Tadka",
+    "ingredients": ["dal", "onion", "tomato"],
+    "steps": ["Cook dal", "Add tadka", "Serve"]
+  },
+  {
+    "name": "Chana Masala",
+    "ingredients": ["chickpeas", "onion", "tomato"],
+    "steps": ["Cook chickpeas", "Prepare masala", "Serve"]
+  },
+  {
+    "name": "Sambar",
+    "ingredients": ["dal", "tamarind", "vegetables"],
+    "steps": ["Cook dal", "Add vegetables", "Serve"]
+  },
+  {
+    "name": "Rasam",
+    "ingredients": ["tomato", "tamarind", "pepper"],
+    "steps": ["Boil ingredients", "Season", "Serve"]
+  },
+  {
+    "name": "Avial",
+    "ingredients": ["vegetables", "coconut", "curd"],
+    "steps": ["Cook vegetables", "Add coconut mix", "Serve"]
+  },
+  {
+    "name": "Thoran",
+    "ingredients": ["beans", "coconut"],
+    "steps": ["Cook beans", "Add coconut", "Serve"]
+  },
+  {
+    "name": "Noodles",
+    "ingredients": ["noodles", "carrot", "cabbage"],
+    "steps": ["Cook noodles", "Mix vegetables", "Serve"]
+  },
+  {
+    "name": "Chicken Noodles",
+    "ingredients": ["noodles", "chicken", "carrot"],
+    "steps": ["Cook noodles", "Cook chicken", "Mix and serve"]
+  },
+  {
+    "name": "Pasta",
+    "ingredients": ["pasta", "tomato", "cheese"],
+    "steps": ["Cook pasta", "Prepare sauce", "Mix and serve"]
+  },
+  {
+    "name": "Margherita Pizza",
+    "ingredients": ["pizza base", "cheese", "tomato"],
+    "steps": ["Add toppings", "Bake", "Serve"]
+  },
+  {
+    "name": "Cheese Burger",
+    "ingredients": ["bun", "cheese", "patty"],
+    "steps": ["Cook patty", "Assemble burger", "Serve"]
+  },
+  {
+    "name": "Veg Cutlet",
+    "ingredients": ["potato", "carrot", "peas"],
+    "steps": ["Mash vegetables", "Shape", "Fry and serve"]
+  },
+  {
+    "name": "Pakora",
+    "ingredients": ["onion", "gram flour"],
+    "steps": ["Prepare batter", "Fry", "Serve"]
+  },
+  {
+    "name": "Bhel Puri",
+    "ingredients": ["puffed rice", "onion", "tomato"],
+    "steps": ["Mix ingredients", "Add chutneys", "Serve"]
+  },
+  {
+    "name": "Kerala Porotta",
+    "ingredients": ["flour", "oil"],
+    "steps": ["Prepare dough", "Layer", "Cook and serve"]
+  },
+  {
+    "name": "Chocolate Cake",
+    "ingredients": ["flour", "cocoa", "sugar"],
+    "steps": ["Prepare batter", "Bake", "Serve"]
+  },
+  {
+    "name": "Vanilla Cake",
+    "ingredients": ["flour", "vanilla", "sugar"],
+    "steps": ["Prepare batter", "Bake", "Serve"]
+  },
+  {
+    "name": "Black Forest Cake",
+    "ingredients": ["flour", "cream", "chocolate"],
+    "steps": ["Bake layers", "Add cream", "Decorate"]
+  },
+  {
+    "name": "Red Velvet Cake",
+    "ingredients": ["flour", "cocoa", "cream cheese"],
+    "steps": ["Prepare batter", "Bake", "Frost"]
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "ingredients": ["milk", "cream", "sugar"],
+    "steps": ["Mix ingredients", "Freeze", "Serve"]
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "ingredients": ["milk", "cocoa", "cream"],
+    "steps": ["Prepare mixture", "Freeze", "Serve"]
+  },
+  {
+    "name": "Strawberry Ice Cream",
+    "ingredients": ["milk", "strawberry", "cream"],
+    "steps": ["Blend ingredients", "Freeze", "Serve"]
+  },
+  {
+    "name": "Falooda",
+    "ingredients": ["milk", "vermicelli", "ice cream"],
+    "steps": ["Prepare falooda", "Add ice cream", "Serve chilled"]
+  },
+  {
+    "name": "Fruit Salad",
+    "ingredients": ["apple", "banana", "grapes"],
+    "steps": ["Cut fruits", "Mix", "Serve chilled"]
+  },
+  {
+    "name": "Mango Juice",
+    "ingredients": ["mango", "water", "sugar"],
+    "steps": ["Blend ingredients", "Serve chilled"]
+  },
+  {
+    "name": "Lime Juice",
+    "ingredients": ["lemon", "water", "sugar"],
+    "steps": ["Mix ingredients", "Serve chilled"]
+  }
+]
